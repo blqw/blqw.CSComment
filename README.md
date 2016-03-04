@@ -23,6 +23,7 @@ static void Main(string[] args)
     Console.WriteLine();
 }
 ```
+[输出](https://raw.githubusercontent.com/blqw/blqw.CSComment/master/demo.png)
 
 ### 更新说明
 #### 2016.03.04
