@@ -1,7 +1,14 @@
-# blqw.CSComment
-获取注释文件中的内容
+﻿using blqw.Reflection;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-```csharp
+namespace blqw
+{
+    class Program
+    {
 /// <summary>
 /// 这是一个测试注释
 /// </summary>
@@ -22,8 +29,5 @@ static void Main(string[] args)
     Console.ReadLine();
     Console.WriteLine();
 }
-```
-
-### 更新说明
-#### 2016.03.04
-* v1.0
+    }
+}
